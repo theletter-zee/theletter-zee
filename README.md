@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/K7opUUu)](https://imgur.com/a/mauVXB6)
+[![MasterHead](https://i.imgur.com/K7opUUu.png)](https://imgur.com/a/mauVXB6)
 
 <h1 align="center">Hi 👋, I'm zee</h1>
 <h3 align="center">A letter of the alphabet that loves to code</h3>
