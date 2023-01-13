@@ -27,9 +27,9 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theletter-zee&show_icons=true&locale=en&layout=compact" alt="theletter-zee" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=theletter-zee&show_icons=true&locale=en&layout=compact" alt="theletter-zee" /></p>
   
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theletter-zee&show_icons=true&locale=en" alt="theletter-zee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theletter-zee&show_icons=true&locale=en" alt="theletter-zee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theletter-zee&" alt="theletter-zee" /></p>
