@@ -2,21 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm zee</h1>
 <h3 align="center">A letter of the alphabet that loves to code</h3>
-<img align="right" alt="Coding gif" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theletter-zee&label=Profile%20views&color=0e75b6&style=flat" alt="theletter-zee" /> </p>
-
-- 🔭 I’m currently working on **Animedly**
-
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Discord Python**
-
-- ⚡ Fun fact **My favorite artist is avogado6**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/15086305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15086305" height="30" width="40" /></a>
+<a href="https://theletter-zee.github.io/rockpaperscissors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/theletter-zee/rockpaperscissors/main/static/android-chrome-512x512.png" alt="Rock Paper Scissors logo" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://animedly.net/" target="blank"><img align="center" src="https://i.imgur.com/51Yysfq.png" alt="Animedly logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
