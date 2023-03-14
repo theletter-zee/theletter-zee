@@ -5,12 +5,9 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://theletter-zee.github.io/rockpaperscissors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/theletter-zee/rockpaperscissors/main/static/android-chrome-512x512.png" alt="Rock Paper Scissors logo" height="30" width="40" /></a>
+<a href="https://theletter-zee.github.io/rockpaperscissors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/theletter-zee/rockpaperscissors/main/static/android-chrome-512x512.png" alt="Rock Paper Scissors logo" height="60" width="60" /></a> <a href="https://animedly.net/" target="blank"><img align="center" src="https://i.imgur.com/51Yysfq.png" alt="Animedly logo" height="60" width="60" /></a>
 </p>
 
-<p align="left">
-<a href="https://animedly.net/" target="blank"><img align="center" src="https://i.imgur.com/51Yysfq.png" alt="Animedly logo" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/favicon.ico" alt="python" width="40" height="40"/><a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://discordpy.readthedocs.io/en/stable/_static/discord_py_logo.ico" alt="discordpy" width="40" height="40"/>
