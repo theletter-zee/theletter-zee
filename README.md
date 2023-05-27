@@ -1,24 +1,93 @@
+
 [![MasterHead](https://i.imgur.com/K7opUUu.png)](https://imgur.com/a/mauVXB6)
 
 <h1 align="center">Hi 👋, I'm zee</h1>
 <h3 align="center">A letter of the alphabet that loves to code</h3>
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-<a href="https://theletter-zee.github.io/rockpaperscissors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/theletter-zee/rockpaperscissors/main/static/android-chrome-512x512.png" alt="Rock Paper Scissors logo" height="60" width="60" /></a> <a href="https://animedly.net/" target="blank"><img align="center" src="https://i.imgur.com/51Yysfq.png" alt="Animedly logo" height="60" width="60" /></a>
+
+
+
+
+
+<img align="right" height="200" src="https://images.vexels.com/media/users/3/283663/isolated/lists/abda7a0cf347389ef2da7a2b3bd1f6cb-retro-purple-computer.png"/>
+
+<!--Intro start-->
+```diff
+@@About me@@
++ Self-taught 
+- Web Developer
+! Bot Developer
+ I sometimes do CTF challenges as well
+
+@@Hobbies@@
++ Writing
+- Drawing
+! Animation
+ I also like video & image editing among other things
+:p
+
+```
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=theletter-zee&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theletter-zee&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=theletter-zee&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages & Tools 📂</h2></summary>
+  </ul>
+  
+ 
+
+</div>
+<!--tech stack icons-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py&perline=14" />
+<a align="right" href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://discordpy.readthedocs.io/en/stable/_static/discord_py_logo.ico" alt="discordpy" width="50" height="50"/>
+<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/wilber32.png" alt="Gimp" width="40" height="40"/> <a href="https://www.mineimator.com/" target="_blank" rel="noreferrer"> <img src="https://www.mineimatorforums.com/uploads/monthly_2021_05/mineimator.png.12a62c6863b7df54317fc38e756c2e0c.png" alt="Mine-Imator" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma,js,html,css,java,sqlite,blender&perline=14" />
+  </a>
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/favicon.ico" alt="python" width="40" height="40"/><a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://discordpy.readthedocs.io/en/stable/_static/discord_py_logo.ico" alt="discordpy" width="40" height="40"/>
-<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/wilber32.png" alt="Gimp" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol.png" alt="aws" width="80" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Notable Projects ⚒️</h2></summary>
+  </ul>
+</div>
 
- </p>
-
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=theletter-zee&show_icons=true&locale=en&layout=compact" alt="theletter-zee" /></p>
+<!--icons and links-->
+<p align="center">
+<a href="https://theletter-zee.github.io/rockpaperscissors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/theletter-zee/rockpaperscissors/main/static/android-chrome-512x512.png" alt="Rock Paper Scissors logo" height="50" width="50" /></a>
+<a href="https://animedly.net/" target="blank"><img align="center" src="https://i.imgur.com/51Yysfq.png" alt="animedly" height="50" width="50" /></a> 
+<a href="https://github.com/theletter-zee/elite-sniper" target="blank"><img align="center" src="https://top.gg/_next/image?url=https%3A%2F%2Fimages.discordapp.net%2Favatars%2F800136653041303553%2F341a636071136c5f689ba404fb5d03a4.png%3Fsize%3D128&w=128&q=75" alt="Elite Sniper" height="50" width="50" /></a>
   
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theletter-zee&show_icons=true&locale=en" alt="theletter-zee" /></p>
+</p>
 
